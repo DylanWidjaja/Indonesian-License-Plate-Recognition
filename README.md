@@ -39,4 +39,4 @@ Performance Metrics
 
 ## Improvements
 * Better license plate pre-processing for OCR
-* Train the license plate OCR on Indonesian license plate font
+* Train the license plate OCR on Indonesian license plate font 
